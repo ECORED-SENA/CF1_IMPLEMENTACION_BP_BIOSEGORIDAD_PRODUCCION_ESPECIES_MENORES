@@ -370,13 +370,13 @@
                     ul.lista-ul--color.mb-0
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Duración del ciclo productivo</b>: 70-90 días por camada
+                        p.mb-0 <b>Duración del ciclo productivo</b>: 70-90 días por camada.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Producción anual</b>: 6-7 camadas por hembra
+                        p.mb-0 <b>Producción anual</b>: 6-7 camadas por hembra.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Finalidad principal</b>: carne, piel y abono orgánico
+                        p.mb-0 <b>Finalidad principal</b>: carne, piel y abono orgánico.
     
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
@@ -397,34 +397,34 @@
                     ul.lista-ul--color.mb-0
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Madurez sexual</b>: hembras a los 4-5 meses; machos a los 5-6 meses
+                        p.mb-0 <b>Madurez sexual</b>: hembras a los 4-5 meses; machos a los 5-6 meses.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Duración de gestación</b>: 30-32 días
+                        p.mb-0 <b>Duración de gestación</b>: 30-32 días.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Tamaño de camada</b>: 6-10 gazapos
+                        p.mb-0 <b>Tamaño de camada</b>: 6-10 gazapos.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Peso al nacimiento</b>: 40-60 g
+                        p.mb-0 <b>Peso al nacimiento</b>: 40-60 g.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Peso al destete</b>: 500-700 g (28 días)
+                        p.mb-0 <b>Peso al destete</b>: 500-700 g (28 días).
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Peso al sacrificio</b>: 2,3-2,5 kg (75-90 días)
+                        p.mb-0 <b>Peso al sacrificio</b>: 2,3-2,5 kg (75-90 días).
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Rendimiento en canal</b>: 55-60 %
+                        p.mb-0 <b>Rendimiento en canal</b>: 55-60 %.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Conversión alimenticia</b>: 3:1
+                        p.mb-0 <b>Conversión alimenticia</b>: 3:1.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Mortalidad pre-destete</b>: < 10 %
+                        p.mb-0 <b>Mortalidad pre-destete</b>: < 10 %.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Vida productiva de la hembra</b>: hasta 3 años
+                        p.mb-0 <b>Vida productiva de la hembra</b>: hasta 3 años.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -955,13 +955,13 @@
                     ul.lista-ul--color.mb-0
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 Se utilizan líneas comerciales como Hy-Line, Lohmann, Bovans, Isa Brown
+                        p.mb-0 Se utilizan líneas comerciales como <em>Hy-Line</em>, <em>Lohmann</em>, <em>Bovans</em>, <em>Isa Brown</em>
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 Aplicación obligatoria de sistemas de bioseguridad y trazabilidad
+                        p.mb-0 Aplicación obligatoria de sistemas de bioseguridad y trazabilidad.
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 Bienestar animal como eje central del manejo: control de densidades, enriquecimiento ambiental y suministro constante de recursos
+                        p.mb-0 Bienestar animal como eje central del manejo: control de densidades, enriquecimiento ambiental y suministro constante de recursos.
                     p.mb-0 El ciclo productivo de las aves, tanto de engorde como de postura, exige planificación técnica basada en la combinación de genética, nutrición, ambiente y sanidad, bajo el marco de las Buenas Prácticas Pecuarias (BPP). En Colombia, la avicultura se ha consolidado como una actividad estratégica para la seguridad alimentaria nacional, destacándose por su alta productividad, tecnificación y cumplimiento normativo.
     
     separador
@@ -993,15 +993,15 @@
             .col-lg-3.mb-3.mb-lg-0
               .bg-color-white.tarjeta.p-3.text-center.h-100
                 h5 Duración total
-                p.mb-0 6-8 semanas
+                p.mb-0 6-8 semanas.
             .col-lg-3.mb-3.mb-lg-0
               .bg-color-white.tarjeta.p-3.text-center.h-100
                 h5 Inicio de postura
-                p.mb-0 Entre los 38 y 42 días de edad
+                p.mb-0 Entre los 38 y 42 días de edad.
             .col-lg-3.mb-3.mb-lg-0
               .bg-color-white.tarjeta.p-3.text-center.h-100
                 h5 Vida productiva
-                p.mb-0 Aproximadamente 10-12 meses
+                p.mb-0 Aproximadamente 10-12 meses.
             .col-lg-3.mb-3.mb-lg-0
               figure
                 img(src="@/assets/curso/tema2/43.svg", data-aos="zoom-in")
@@ -1031,7 +1031,7 @@
             .row(titulo="Paso 1").p-5
               .col-lg-7.mb-4.mb-md-0
                 h5.mb-5 Selección de reproductores
-                p Se eligen aves de líneas genéticas diferenciadas según el propósito productivo:
+                p Se eligen aves de líneas genéticas diferenciadas según el propósito productivo.
                 ul.lista-ul--color.mb-0
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
@@ -1228,9 +1228,9 @@
     separador
     
     #t_2_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.6 Ciclo productivo de la cabra (Capra hircus)
+      h2 2.6 Ciclo productivo de la cabra (<em>Capra hircus</em>)
 
-    p.mb-5 La cabra (Capra hircus) es una especie menor de alta versatilidad productiva, aprovechada para la obtención de carne, leche, piel y fibra. Su capacidad de adaptación a condiciones climáticas adversas y su eficiencia alimenticia la convierten en una especie clave para los sistemas familiares, semi intensivos y extensivos, especialmente en regiones áridas y semiáridas de Colombia como La Guajira, Huila, Cesar y Norte de Santander.
+    p.mb-5 La cabra (<em>Capra hircus</em>) es una especie menor de alta versatilidad productiva, aprovechada para la obtención de carne, leche, piel y fibra. Su capacidad de adaptación a condiciones climáticas adversas y su eficiencia alimenticia la convierten en una especie clave para los sistemas familiares, semi intensivos y extensivos, especialmente en regiones áridas y semiáridas de Colombia como La Guajira, Huila, Cesar y Norte de Santander.
 
     .row.mb-5
       .col-lg-5.mb-3.mb-lg-0
@@ -1516,7 +1516,7 @@
             .row(titulo="Paso 5").p-5
               .col-lg-7.mb-4.mb-md-0
                 h5.mb-5 Lactancia y crecimiento inicial
-                p La lactancia dura de 60 a 90 días. Durante este tiempo los corderos maman y pueden recibir <em>creep feeding</em> a partir de los 15 días. En sistemas de doble propósito se puede ordeñar parcialmente a la madre. El destete se realiza a los 2-3 meses, cuando el cordero pesa entre 12 y 18 kg.
+                p La lactancia dura de 60 a 90 días. Durante este tiempo, los corderos maman y pueden recibir <em>creep feeding</em> a partir de los 15 días. En sistemas de doble propósito se puede ordeñar parcialmente a la madre. El destete se realiza a los 2-3 meses, cuando el cordero pesa entre 12 y 18 kg.
               .col-lg-5
                 figure
                   img(src='@/assets/curso/tema2/75.png', alt='Texto que describa la imagen')

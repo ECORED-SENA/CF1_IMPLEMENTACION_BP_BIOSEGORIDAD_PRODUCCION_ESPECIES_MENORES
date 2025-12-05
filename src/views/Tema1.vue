@@ -310,7 +310,7 @@
                     td Capra
                   tr.bg-color-sintesis
                     td Especie
-                    td Capra hircus
+                    td <em>Capra hircus</em>
           .col-lg-4
             .tarjeta--boton.bg-color-11.px-4.py-5.h-100
               .row.justify-content-center.mb-3

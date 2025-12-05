@@ -29,19 +29,19 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Genética</b>: potencial de crecimiento, prolificidad, producción láctea, calidad de fibra
+                p.mb-0 <b>Genética</b>: potencial de crecimiento, prolificidad, producción láctea, calidad de fibra.
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Ambientales</b>: clima, altitud, fotoperiodo, disponibilidad de agua y forraje  
+                p.mb-0 <b>Ambientales</b>: clima, altitud, fotoperiodo, disponibilidad de agua y forraje.
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Nutricionales</b>: calidad y balance de la dieta por fase productiva
+                p.mb-0 <b>Nutricionales</b>: calidad y balance de la dieta por fase productiva.
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Sanidad y manejo</b>: control de enfermedades, bienestar, densidad, higiene
+                p.mb-0 <b>Sanidad y manejo</b>: control de enfermedades, bienestar, densidad, higiene.
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Economía y mercado</b>: precio, demanda y cadena de valor que incentiva determinadas aptitudes
+                p.mb-0 <b>Economía y mercado</b>: precio, demanda y cadena de valor que incentiva determinadas aptitudes.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema3/2.png', alt='Texto que describa la imagen')
@@ -53,16 +53,16 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 Seleccionar reproductores más eficientes
+                p.mb-0 Seleccionar reproductores más eficientes.
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 Comparar sistemas (familiar vs intensivo) 
+                p.mb-0 Comparar sistemas (familiar vs intensivo) .
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 Planear inversiones y calcular rentabilidad
+                p.mb-0 Planear inversiones y calcular rentabilidad.
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 Detectar cuellos de botella (por ejemplo, baja conversión alimenticia o alta mortalidad neonatal)
+                p.mb-0 Detectar cuellos de botella (por ejemplo, baja conversión alimenticia o alta mortalidad neonatal).
           .col-lg-5
             figure
               img(src='@/assets/curso/tema3/3.png', alt='Texto que describa la imagen')

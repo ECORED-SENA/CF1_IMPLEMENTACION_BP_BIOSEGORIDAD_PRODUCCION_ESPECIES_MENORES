@@ -1286,7 +1286,7 @@
         separador
         
         #t_4_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 4.7 Cabras (Capra hircus): Razas lecheras, cárnicas y criollas
+          h2 4.7 Cabras (<em>Capra hircus</em>): Razas lecheras, cárnicas y criollas
     
     .row.mb-5.align-items-center
       .col-lg-5.mb-3.mb-lg-0.order-lg-2
