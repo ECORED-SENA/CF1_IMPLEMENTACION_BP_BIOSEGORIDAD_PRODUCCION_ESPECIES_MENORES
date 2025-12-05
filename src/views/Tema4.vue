@@ -110,97 +110,97 @@
                 ul.lista-ul--color.mb-0
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Tipo morfológico</b>: Tipo 1. 
+                    p.mb-0 <b>Tipo morfológico</b>: tipo 1. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Color característico</b>: Alazán puro o combinado con blanco. 
+                    p.mb-0 <b>Color característico</b>: alazán puro o combinado con blanco. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Prolificidad</b>: Promedio de 3 crías por parto. 
+                    p.mb-0 <b>Prolificidad</b>: promedio de 3 crías por parto. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Aptitud productiva</b>: Carne. 
+                    p.mb-0 <b>Aptitud productiva</b>: carne. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Características</b>: Cuerpo compacto, buena masa muscular y crecimiento acelerado. Originaria de Perú y difundida mediante programas de mejoramiento genético. 
+                    p.mb-0 <b>Características</b>: cuerpo compacto, buena masa muscular y crecimiento acelerado. Originaria de Perú y difundida mediante programas de mejoramiento genético. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 <b>Parámetros estimados</b>: 800-1000 g en 9-10 semanas; camada de 3-4 crías.
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Ventajas</b>: Buena adaptación a zonas andinas y alto rendimiento. 
+                    p.mb-0 <b>Ventajas</b>: buena adaptación a zonas andinas y alto rendimiento. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Desventajas</b>: Requiere manejo técnico adecuado y puede presentar mayor mortalidad neonatal frente a líneas más recientes.
+                    p.mb-0 <b>Desventajas</b>: requiere manejo técnico adecuado y puede presentar mayor mortalidad neonatal frente a líneas más recientes.
               .div(titulo="Línea Andina")
                 p Línea con excelente adaptación a la altura, reconocida por su prolificidad y rusticidad. 
                 ul.lista-ul--color.mb-0
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Tipo morfológico</b>: Tipo 1. 
+                    p.mb-0 <b>Tipo morfológico</b>: tipo 1. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Color característico</b>: Blanco puro. 
+                    p.mb-0 <b>Color característico</b>: blanco puro. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 <b>Prolificidad</b>: 5 crías por parto (superior al promedio). 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Aptitud productiva</b>: Carne y rusticidad. 
+                    p.mb-0 <b>Aptitud productiva</b>: carne y rusticidad. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Características</b>: Adaptada a zonas frías y de altitud, con excelente fertilidad. 
+                    p.mb-0 <b>Características</b>: adaptada a zonas frías y de altitud, con excelente fertilidad. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 <b>Parámetros estimados</b>: 3.8-4 crías por camada; crecimiento aceptable en climas fríos. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Ventajas</b>: Alta prolificidad y rusticidad en sistemas familiares. 
+                    p.mb-0 <b>Ventajas</b>: alta prolificidad y rusticidad en sistemas familiares. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Desventajas</b>: Disminuye productividad en climas cálidos; requiere adaptación al trasladarse a otras zonas.
+                    p.mb-0 <b>Desventajas</b>: disminuye productividad en climas cálidos; requiere adaptación al trasladarse a otras zonas.
               .div(titulo="Línea Inti")
                 p Desarrollada para ofrecer buena prolificidad con menor mortalidad neonatal. 
                 ul.lista-ul--color.mb-0
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Tipo morfológico</b>: Tipo 1. 
+                    p.mb-0 <b>Tipo morfológico</b>: tipo 1. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Color característico</b>: Bayo puro o combinado con blanco. 
+                    p.mb-0 <b>Color característico</b>: bayo puro o combinado con blanco. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 <b>Prolificidad</b>: 3-4 crías por parto. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Aptitud productiva</b>: Carne y reproducción. 
+                    p.mb-0 <b>Aptitud productiva</b>: carne y reproducción. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Características</b>: Precocidad, buena sobrevivencia y adaptabilidad; línea intermedia entre Perú y Andina. 
+                    p.mb-0 <b>Características</b>: precocidad, buena sobrevivencia y adaptabilidad; línea intermedia entre Perú y Andina. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 <b>Parámetros estimados</b>: 800 g en 10 semanas; mortalidad neonatal cercana al 9 %. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Ventajas</b>: Menor mortalidad, crecimiento estable y buena adaptación climática. 
+                    p.mb-0 <b>Ventajas</b>: menor mortalidad, crecimiento estable y buena adaptación climática. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Desventajas</b>: Requiere trazabilidad genética para conservar sus características.
+                    p.mb-0 <b>Desventajas</b>: requiere trazabilidad genética para conservar sus características.
               .div(titulo="Línea Kuri")
                 p Una de las líneas más modernas, adaptada a condiciones locales del sur de Colombia.  
                 ul.lista-ul--color.mb-0
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Tipo morfológico</b>: Tipo 1. 
+                    p.mb-0 <b>Tipo morfológico</b>: tipo 1. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Color característico</b>: Marrón rojizo (bayo), con posibles manchas blancas. 
+                    p.mb-0 <b>Color característico</b>: marrón rojizo (bayo), con posibles manchas blancas. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 <b>Prolificidad</b>: 3-4 crías por parto (constante).  
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Aptitud productiva</b>: Carne y reproducción, ideal para sistemas familiares y tecnificados. 
+                    p.mb-0 <b>Aptitud productiva</b>: carne y reproducción, ideal para sistemas familiares y tecnificados. 
                 h5 Características productivas:
                 ul.lista-ul--color.mb-0  
                   li.mb-2.d-flex
@@ -215,9 +215,9 @@
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 <b>Rendimiento en canal</b>: 65-70 %. 
-                p <b>Particularidades</b>: Alta sobrevivencia neonatal, adaptación a zonas templadas y frías del sur andino colombiano (Nariño, Cauca, Putumayo), buena respuesta a dietas locales y forraje, desarrollada por programas de mejoramiento en Perú y Ecuador, introducida a Colombia vía cooperación. 
-                p <b>Ventajas</b>: Excelente rendimiento, crecimiento rápido y estable, ideal para venta comercial o consumo familiar. 
-                p <b>Desventajas</b>: Mayor costo inicial de reproductores requiere manejo técnico para mantener ventajas productivas y disponibilidad limitada en algunas regiones.
+                p <b>Particularidades</b>: alta sobrevivencia neonatal, adaptación a zonas templadas y frías del sur andino colombiano (Nariño, Cauca, Putumayo), buena respuesta a dietas locales y forraje, desarrollada por programas de mejoramiento en Perú y Ecuador, introducida a Colombia vía cooperación. 
+                p <b>Ventajas</b>: excelente rendimiento, crecimiento rápido y estable, ideal para venta comercial o consumo familiar. 
+                p <b>Desventajas</b>: mayor costo inicial de reproductores requiere manejo técnico para mantener ventajas productivas y disponibilidad limitada en algunas regiones.
 
         separador
         
@@ -353,10 +353,10 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne.   
+                p.mb-0 <b>Aptitud</b>: carne.   
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Ideal para cruzamientos terminales con razas como el Californiano.  
+                p.mb-0 <b>Particularidad</b>: ideal para cruzamientos terminales con razas como el Californiano.  
           .div(titulo="Californiano")
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
@@ -364,7 +364,7 @@
                 p.mb-0 <b>Origen:</b> California, EE. UU.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Color:</b> Blanco con manchas en orejas, nariz, patas y cola.  
+                p.mb-0 <b>Color:</b> blanco con manchas en orejas, nariz, patas y cola.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
                 p.mb-0 <b>Peso adulto</b>: 3,5-4,5 kg.  
@@ -385,10 +385,10 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne y pie de cría.  
+                p.mb-0 <b>Aptitud</b>: carne y pie de cría.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Base genética común en Colombia.
+                p.mb-0 <b>Particularidad</b>: base genética común en Colombia.
           .div(titulo="Gigante de Flandes")
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
@@ -396,7 +396,7 @@
                 p.mb-0 <b>Origen:</b> Bélgica.   
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Color:</b> Gris, arena, negro o leonado.   
+                p.mb-0 <b>Color:</b> gris, arena, negro o leonado.   
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
                 p.mb-0 <b>Peso adulto</b>: 6-8 kg.   
@@ -417,10 +417,10 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne y exhibición.  
+                p.mb-0 <b>Aptitud</b>: carne y exhibición.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Requiere mayor espacio y buena ventilación.
+                p.mb-0 <b>Particularidad</b>: requiere mayor espacio y buena ventilación.
           .div(titulo="León de Borgoña")
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
@@ -428,7 +428,7 @@
                 p.mb-0 <b>Origen:</b> Francia.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Color:</b> Rojo intenso.  
+                p.mb-0 <b>Color:</b> rojo intenso.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
                 p.mb-0 <b>Peso adulto</b>: 4-4,5 kg. 
@@ -443,10 +443,10 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne y cruzamientos.   
+                p.mb-0 <b>Aptitud</b>: carne y cruzamientos.   
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Buen desempeño en altitudes medias.
+                p.mb-0 <b>Particularidad</b>: buen desempeño en altitudes medias.
           
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -466,7 +466,7 @@
                 p.mb-0 <b>Origen:</b> Francia.    
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Color:</b> Gris perla con reflejos plateados.    
+                p.mb-0 <b>Color:</b> gris perla con reflejos plateados.    
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
                 p.mb-0 <b>Peso adulto</b>: 4,5-6 kg.   
@@ -487,10 +487,10 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne y piel. 
+                p.mb-0 <b>Aptitud</b>: carne y piel. 
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Muy utilizada en artesanía por la calidad de su pelaje.
+                p.mb-0 <b>Particularidad</b>: muy utilizada en artesanía por la calidad de su pelaje.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema4/19.png', alt='Texto que describa la imagen')
@@ -504,7 +504,7 @@
                 p.mb-0 <b>Origen:</b> Francia.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Color:</b> Castaño, negro, azul, blanco o chinchilla.   
+                p.mb-0 <b>Color:</b> castaño, negro, azul, blanco o chinchilla.   
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
                 p.mb-0 <b>Peso adulto</b>: 3-3,5 kg.  
@@ -525,10 +525,10 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Piel y carne  
+                p.mb-0 <b>Aptitud</b>: piel y carne  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Piel aterciopelada de alta calidad, muy apreciada en peletería.
+                p.mb-0 <b>Particularidad</b>: piel aterciopelada de alta calidad, muy apreciada en peletería.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema4/20.png', alt='Texto que describa la imagen') 
@@ -542,7 +542,7 @@
                 p.mb-0 <b>Origen:</b> Francia.    
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Color:</b> Blanco con manchas negras o azules simétricas.    
+                p.mb-0 <b>Color:</b> blanco con manchas negras o azules simétricas.    
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
                 p.mb-0 <b>Peso adulto</b>: 4,5-5 kg.   
@@ -560,10 +560,10 @@
             ul.lista-ul--color.mb-0
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne y piel.  
+                p.mb-0 <b>Aptitud</b>: carne y piel.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Alta adaptabilidad a climas cálidos y buen comportamiento en sistemas familiares.
+                p.mb-0 <b>Particularidad</b>: alta adaptabilidad a climas cálidos y buen comportamiento en sistemas familiares.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema4/21.png', alt='Texto que describa la imagen')     
@@ -590,7 +590,7 @@
                     ul.lista-ul--color.mb-0
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Origen:</b> Resultado de cruzamientos entre razas comerciales y poblaciones locales.       
+                        p.mb-0 <b>Origen:</b> resultado de cruzamientos entre razas comerciales y poblaciones locales.       
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
                         p.mb-0 <b>Peso adulto</b>: 3,0-4,0 kg.    
@@ -611,10 +611,10 @@
                     ul.lista-ul--color.mb-0
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Aptitud</b>: Carne y reproducción.   
+                        p.mb-0 <b>Aptitud</b>: carne y reproducción.   
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Particularidad</b>: Ideal para sistemas sostenibles y agroecológicos, con excelente adaptación a condiciones rurales colombianas.
+                        p.mb-0 <b>Particularidad</b>: ideal para sistemas sostenibles y agroecológicos, con excelente adaptación a condiciones rurales colombianas.
         
         p.mb-5 A continuación, se presentan las principales razas cunícolas de interés productivo en el país, comparadas según su peso, prolificidad, eficiencia alimenticia y rendimiento en canal.
 
@@ -766,31 +766,31 @@
                 th.bg-color-9 Desventajas
             tbody.bg-color-white
               tr
-                td Hy-Line (W-36, W-80, Brown)
+                td <em>Hy-Line (W-36, W-80, Brown)</em>
                 td Aves ligeras (blancas) o medianas (marrones); alta adaptabilidad al trópico.
                 td 320-340 huevos/año; peso del huevo 60-63 g; buena conversión.
                 td Muy productivas; buena persistencia; excelente calidad del huevo.
                 td Sensibles al estrés calórico (líneas blancas).
               tr.bg-color-sintesis
-                td Lohmann (Brown, LSL)
+                td <em>Lohmann (Brown, LSL)</em>
                 td Aves rústicas, resistentes y de buen comportamiento.
                 td 310-330 huevos/año; buen tamaño de huevo; excelente cáscara.
                 td Alta viabilidad (>90 %); adaptable a sistemas semi-intensivos.
                 td Requiere manejo nutricional estricto.
               tr
-                td Isa (Brown, White)
+                td <em>Isa (Brown, White)</em>
                 td Aves activas, buen temperamento, fáciles de manejar.
                 td 315-330 huevos/año; 62-64 g por huevo; buena persistencia.
                 td Alta productividad; buena aceptación; huevos uniformes.
                 td Más susceptibles a enfermedades sin buena bioseguridad.
               tr.bg-color-sintesis
-                td Hisex (Brown, White)
+                td <em>Hisex (Brown, White)</em>
                 td Aves livianas, alta eficiencia alimenticia.
                 td 310-325 huevos/año; buena conversión y tamaño del huevo.
                 td Excelente conversión; buena calidad de cáscara; climas cálidos.
                 td Persistencia menor sin buen manejo.
               tr
-                td Dekalb (White, Brown)
+                td <em>Dekalb (White, Brown)</em>
                 td Aves resistentes y adaptables.
                 td 300-320 huevos/año; huevos consistentes y de buen tamaño.
                 td Rústicas; buen desempeño en el trópico; buena cáscara.
@@ -800,7 +800,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
-        h3.titulo-con-imagen__texto Razas Criollas y producción alternativa
+        h3.titulo-con-imagen__texto Razas criollas y producción alternativa
     
     p.mb-5 En zonas rurales de Colombia se encuentran variedades de gallinas criollas y eco tipos locales que, aunque menos productivos en comparación con los híbridos comerciales, presentan una alta rusticidad y valor cultural. Se emplean principalmente en sistemas de traspatio o proyectos comunitarios.
 
@@ -808,7 +808,7 @@
       .col-lg-12.mb-3.mb-lg-0(data-aos="zoom-in").order-lg-2
         .titulo-sexto.color-acento-contenido
           h5 Tabla 16.
-          span Razas Criollas y producción alternativa
+          span Razas criollas y producción alternativa
         .tabla-a.color-acento-contenido.tbl
           table
             thead

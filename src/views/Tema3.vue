@@ -107,7 +107,7 @@
                   ul.lista-ul--color.mb-0
                     li.mb-2.d-flex
                       i.fa-solid.fa-circle-check
-                      p.mb-0 Producto principal: carne (piel y estiércol como subproductos)  
+                      p.mb-0 Producto principal: carne (piel y estiércol como subproductos) 
                     li.mb-2.d-flex
                       i.fa-solid.fa-circle-check
                       p.mb-0 Peso de sacrificio: 2,3-2,5 kg a los 75-90 días 
@@ -325,16 +325,16 @@
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-14")
           .div(titulo="Ganancia diaria media (ADG)")
-            p ADG = (Peso final − Peso inicial) / Días del periodo Refleja la velocidad de crecimiento del animal.
+            p ADG = (Peso final − Peso inicial) / Días del periodo. Refleja la velocidad de crecimiento del animal.
     
           .div(titulo="Conversión alimenticia (FCR)")
-            p FCR = Cantidad total de alimento consumido (kg) / Incremento de peso vivo (kg) Valores bajos indican mejor aprovechamiento del alimento.
+            p FCR = Cantidad total de alimento consumido (kg) / Incremento de peso vivo (kg). Valores bajos indican mejor aprovechamiento del alimento.
     
           .div(titulo="Índice de conversión económica")
-            p Costo de alimento / kg de producto (por ejemplo, carne) Permite relacionar el gasto en alimentación con la producción obtenida.
+            p Costo de alimento / kg de producto (por ejemplo, carne). Permite relacionar el gasto en alimentación con la producción obtenida.
     
           .div(titulo="Rendimiento en canal")
-            p Rendimiento (%) = (Peso de canal / Peso vivo en pie) × 100 Indica la proporción de carne utilizable respecto al peso total del animal.
+            p Rendimiento (%) = (Peso de canal / Peso vivo en pie) × 100. Indica la proporción de carne utilizable respecto al peso total del animal.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -483,7 +483,7 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema3/19.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Conejo
-                p.text-center Carne fresca y procesada, pieles para artesanía, estiércol como fertilizante
+                p.text-center Carne fresca y procesada, pieles para artesanía, estiércol como fertilizante.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema3/19.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Aves
