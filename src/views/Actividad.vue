@@ -33,8 +33,8 @@ export default {
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Cavia porcellus.', esCorrecta: true },
-            { id: 'b', texto: 'Oryctolagus cuniculus.', esCorrecta: false },
-            { id: 'c', texto: 'Gallus gallus domesticus.', esCorrecta: false },
+            { id: 'b', texto: '<em>Oryctolagus cuniculus</em>.', esCorrecta: false },
+            { id: 'c', texto: '<em>Gallus gallus</em> domesticus.', esCorrecta: false },
             { id: 'd', texto: 'Capra hircus.', esCorrecta: false },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',

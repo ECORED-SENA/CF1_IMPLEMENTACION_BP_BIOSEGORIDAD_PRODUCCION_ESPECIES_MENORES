@@ -54,7 +54,7 @@
         .bg-color-5.tarjeta.p-4(data-aos="fade-left")
           p La taxonomía sigue una jerarquía universalmente aceptada que va desde los niveles más amplios hasta los más específicos:
           .bg-color-6.tarjeta.p-3.mb-3(data-aos="fade-left")
-            p.mb-0 <b>Reino → Filo → Clase → Orden → Familia → Género → Especie</b> (y en algunos casos, Subespecie o Raza).
+            p.mb-0 <b>Reino → Filo → Clase → Orden → Familia → Género → Especie</b> (y en algunos casos, subespecie o raza).
           p.mb-0 Esta clasificación está sujeta a revisión constante conforme avanzan los estudios en genética, filogenia molecular y biogeografía.
 
     .bg-full-width.bg-color-7
@@ -93,19 +93,19 @@
                     td Chordata
                   tr
                     td Clase
-                    td Mammalia
+                    td <em>Mammalia</em>
                   tr.bg-color-sintesis
                     td Orden
                     td Rodentia
                   tr
                     td Familia
-                    td Caviidae
+                    td <em>Caviidae</em>
                   tr.bg-color-sintesis
                     td Género
                     td Cavia
                   tr
                     td Especie
-                    td Cavia porcellus
+                    td <em>Cavia porcellus</em>
           .col-lg-4
             .tarjeta--boton.bg-color-8.px-4.py-5.h-100
               .row.justify-content-center.mb-3
@@ -143,19 +143,19 @@
                     td Chordata
                   tr
                     td Clase
-                    td Mammalia
+                    td <em>Mammalia</em>
                   tr.bg-color-sintesis
                     td Orden
-                    td Lagomorpha
+                    td <em>Lagomorpha</em>
                   tr
                     td Familia
-                    td Leporidae
+                    td <em>Leporidae</em>
                   tr.bg-color-sintesis
                     td Género
-                    td Oryctolagus
+                    td <em>Oryctolagus</em>
                   tr
                     td Especie
-                    td Oryctolagus cuniculus
+                    td <em>Oryctolagus cuniculus</em>
           .col-lg-4
             .tarjeta--boton.bg-color-10.px-4.py-5.h-100
               .row.justify-content-center.mb-3
@@ -173,7 +173,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
             h3.titulo-con-imagen__texto Aves de corral (<em>Gallus gallus domesticus</em>)
         
-        p.mb-5 Comprende las líneas domésticas derivadas de Gallus gallus, como gallinas ponedoras y pollos de engorde. Son fundamentales en la avicultura comercial colombiana.
+        p.mb-5 Comprende las líneas domésticas derivadas de <em>Gallus gallus</em>, como gallinas ponedoras y pollos de engorde. Son fundamentales en la avicultura comercial colombiana.
         
         .row.justify-content-center.mb-5
           .col-lg-5.mb-3.mb-lg-0(data-aos="zoom-in")
@@ -198,16 +198,16 @@
                     td Aves
                   tr.bg-color-sintesis
                     td Orden
-                    td Galliformes
+                    td <em>Galliformes</em>
                   tr
                     td Familia
-                    td Phasianidae
+                    td <em>Phasianidae</em>
                   tr.bg-color-sintesis
                     td Género
-                    td Gallus
+                    td <em>Gallus</em>
                   tr
                     td Especie
-                    td Gallus gallus domesticus
+                    td <em>Gallus gallus domesticus</em>
           .col-lg-4
             .tarjeta--boton.bg-color-9.px-4.py-5.h-100
               .row.justify-content-center.mb-3
@@ -248,16 +248,16 @@
                     td Aves
                   tr.bg-color-sintesis
                     td Orden
-                    td Galliformes
+                    td <em>Galliformes</em>
                   tr
                     td Familia
-                    td Phasianidae
+                    td <em>Phasianidae</em>
                   tr.bg-color-sintesis
                     td Género
-                    td Coturnix
+                    td <em>Coturnix</em>
                   tr
                     td Especie
-                    td Coturnix japonica
+                    td <em>Coturnix japonica</em>
           .col-lg-4
             .tarjeta--boton.bg-color-6.px-4.py-5.h-100
               .row.justify-content-center.mb-3
@@ -295,16 +295,16 @@
                     td Chordata
                   tr
                     td Clase
-                    td Mammalia
+                    td <em>Mammalia</em>
                   tr.bg-color-sintesis
                     td Orden
                     td Artiodactyla
                   tr
                     td Familia
-                    td Bovidae
+                    td <em>Bovidae</em>
                   tr.bg-color-sintesis
                     td Subfamilia
-                    td Caprinae
+                    td <em>Caprinae</em>
                   tr
                     td Género
                     td Capra
@@ -348,22 +348,22 @@
                     td Chordata
                   tr
                     td Clase
-                    td Mammalia
+                    td <em>Mammalia</em>
                   tr.bg-color-sintesis
                     td Orden
                     td Artiodactyla
                   tr
                     td Familia
-                    td Bovidae
+                    td <em>Bovidae</em>
                   tr.bg-color-sintesis
                     td Subfamilia
-                    td Caprinae
+                    td <em>Caprinae</em>
                   tr
                     td Género
-                    td Ovis
+                    td <em>Ovis</em>
                   tr.bg-color-sintesis
                     td Especie
-                    td Ovis aries
+                    td <em>Ovis aries</em>
           .col-lg-4
             .tarjeta--boton.bg-color-10.px-4.py-5.h-100
               .row.justify-content-center.mb-3
@@ -372,7 +372,7 @@
                     img(src='@/assets/curso/tema1/10.png', alt='Texto que describa la imagen')
               div.text-center
                 h5.mb-5 Origen y difusión:
-                p.mb-0 Descendiente del muflón asiático (Ovis orientalis), domesticada entre 9 000 y 11 000 años atrás en el Creciente Fértil. Su crianza se ha expandido globalmente.
+                p.mb-0 Descendiente del muflón asiático (<em>Ovis orientalis</em>), domesticada entre 9 000 y 11 000 años atrás en el Creciente Fértil. Su crianza se ha expandido globalmente.
 
 
     

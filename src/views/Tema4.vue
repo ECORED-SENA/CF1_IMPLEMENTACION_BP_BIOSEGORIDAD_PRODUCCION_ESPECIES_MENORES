@@ -257,7 +257,7 @@
         figure
           img(src="@/assets/curso/tema4/12.png", data-aos="zoom-in")
       .col-lg-7.order-lg-1
-        p La producción cunícola en Colombia ha crecido como alternativa rentable y sostenible dentro de sistemas agropecuarios familiares y semi-intensivos. El conejo doméstico (Oryctolagus cuniculus) destaca por su alta eficiencia biológica: gestación corta (30-32 días), madurez sexual temprana (4-5 meses) y conversión alimenticia favorable, lo que permite múltiples partos al año y rápida recuperación de inversión.
+        p La producción cunícola en Colombia ha crecido como alternativa rentable y sostenible dentro de sistemas agropecuarios familiares y semi-intensivos. El conejo doméstico (<em>Oryctolagus cuniculus</em>) destaca por su alta eficiencia biológica: gestación corta (30-32 días), madurez sexual temprana (4-5 meses) y conversión alimenticia favorable, lo que permite múltiples partos al año y rápida recuperación de inversión.
         .bg-color-5.mb-3
           .px-4.px-md-5.p-4
             .row.align-items-center

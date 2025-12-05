@@ -96,7 +96,7 @@
                      ul.lista-ul--color.mb-0
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
-                        p.mb-0 <b>Especie</b>: Cavia porcellus (mamífero roedor herbívoro).
+                        p.mb-0 <b>Especie</b>: <em>Cavia porcellus</em> (mamífero roedor herbívoro).
                       li.mb-3.d-flex
                         i.fa-solid.fa-circle-check
                         p.mb-0 <b>Madurez sexual</b>: hembras a los 2,5-3 meses; machos a los 3-4 meses.
@@ -169,7 +169,7 @@
                     p.mb-0 Existen dos estrategias principales de reproducción, cuya elección depende de los objetivos del sistema.  
                   li.mb-3.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 Empadre continuo: el macho permanece con las hembras permanentemente, lo que genera mayor número de partos pero menor control. 
+                    p.mb-0 Empadre continuo: el macho permanece con las hembras permanentemente, lo que genera mayor número de partos, pero menor control. 
                   li.mb-3.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 Empadre controlado: el macho se introduce solo durante el celo (relación 1:5), lo que permite mejor trazabilidad y sanidad. 
@@ -216,7 +216,7 @@
                     p.mb-0 Peso: 100-130 g.  
                   li.mb-3.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 Requiere cama limpia y sin corrientes de aire
+                    p.mb-0 Requiere cama limpia y sin corrientes de aire.
               .col-lg-5
                 figure
                   img(src='@/assets/curso/tema2/11.svg', alt='Texto que describa la imagen')
@@ -308,22 +308,22 @@
                 td Chordata
               tr
                 td Clase
-                td Mammalia
+                td <em>Mammalia</em>
               tr.bg-color-sintesis
                 td Orden
                 td Artiodactyla
               tr
                 td Familia
-                td Bovidae
+                td <em>Bovidae</em>
               tr.bg-color-sintesis
                 td Subfamilia
-                td Caprinae
+                td <em>Caprinae</em>
               tr
                 td Género
                 td Ovis
               tr.bg-color-sintesis
                 td Especie
-                td Ovis aries
+                td <em>Ovis aries</em>
       .col-lg-5.order-lg-1
         figure
           img(src='@/assets/curso/tema2/14.png', alt='Texto que describa la imagen')
@@ -974,7 +974,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/41.png')})`}"
       )(data-aos="zoom-in")
       .bloque-texto-g__texto.p-4
-        p.mb-0 La codorniz japonesa (Coturnix coturnix japonica) es una especie aviar menor de gran importancia económica por su rápido crecimiento, alta eficiencia productiva y bajo requerimiento de espacio, lo que la convierte en una excelente opción para sistemas intensivos, familiares o de economía campesina. En Colombia, la coturnicultura ha ganado terreno especialmente en departamentos como Antioquia, Cundinamarca y Valle del Cauca, consolidándose como una alternativa rentable y sostenible dentro de las especies menores.
+        p.mb-0 La codorniz japonesa (Coturnix <em>Coturnix japonica</em>) es una especie aviar menor de gran importancia económica por su rápido crecimiento, alta eficiencia productiva y bajo requerimiento de espacio, lo que la convierte en una excelente opción para sistemas intensivos, familiares o de economía campesina. En Colombia, la coturnicultura ha ganado terreno especialmente en departamentos como Antioquia, Cundinamarca y Valle del Cauca, consolidándose como una alternativa rentable y sostenible dentro de las especies menores.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

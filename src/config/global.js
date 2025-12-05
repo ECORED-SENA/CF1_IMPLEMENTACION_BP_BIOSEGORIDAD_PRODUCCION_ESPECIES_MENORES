@@ -3,7 +3,7 @@ export default {
     Name:
       'Gestión sostenible y bienestar animal en la producción de especies menores',
     Description:
-      'El componente formativo presenta la clasificación zoológica como fundamento para identificar y organizar especies menores usadas en Colombia: cuy, conejo, aves, codorniz, cabra y oveja. Comprender esta jerarquía, de reino a especie, facilita manejo técnico, reproducción, nutrición, sanidad y trazabilidad, además de apoyar el cumplimiento normativo. También integra taxonomía, origen y ciclos productivos para orientar decisiones sostenibles y fortalecer bienestar animal.',
+      'El componente formativo presenta la clasificación zoológica como fundamento para identificar y organizar especies menores usadas en Colombia: cuy, conejo, aves, codorniz, cabra y oveja. Comprender esta jerarquía, de reino a especie, facilita el manejo técnico, reproducción, nutrición, sanidad y trazabilidad, además de apoyar el cumplimiento normativo. También integra taxonomía, origen y ciclos productivos para orientar decisiones sostenibles y fortalecer bienestar animal.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -296,7 +296,7 @@ export default {
         'https://www.ica.gov.co/getattachment/6b7f82ab-bccd-4bf5-a5c6-5bfff35b772b/2020R67449.aspx',
     },
     {
-      tema: 'Ciclo productivo del cuy (Cavia porcellus)',
+      tema: 'Ciclo productivo del cuy (<em>Cavia porcellus</em>)',
       referencia:
         'Ministerio de Agricultura y Desarrollo Rural. (2022, 9 de junio). <em>Manual de condiciones de bienestar animal en la producción de conejos y/o cuyes en el sector agropecuario (MN-IDP-05)</em>. Bogotá, Colombia.',
       tipo: 'Manual técnico',
