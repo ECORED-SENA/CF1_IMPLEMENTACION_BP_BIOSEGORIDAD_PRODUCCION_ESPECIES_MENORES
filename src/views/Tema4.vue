@@ -874,7 +874,7 @@
                 td Peculiar morfología; muy rústica.
                 td Baja postura; huevos sin valor agregado.
               tr.bg-color-sintesis
-                td Sedosa (Silkie)
+                td Sedosa (<em>Silkie</em>)
                 td Plumaje tipo algodón; piel negra, 5 dedos.
                 td ≈ 100 huevos/año; hembras 1-1,5 kg.
                 td Ornamentales; excelentes madres.
@@ -903,7 +903,7 @@
                 p.mb-0 <b>Origen:</b> Estados Unidos (Cobb-Vantress Inc.).  
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Tipo</b>: Híbrido comercial. 
+                p.mb-0 <b>Tipo</b>: híbrido comercial. 
             h5 Características técnicas:
             ul.lista-ul--color.mb-0.ms-3 
               li.mb-1.d-flex
@@ -921,7 +921,7 @@
             ul.lista-ul--color.mb-0
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne (engorde intensivo).   
+                p.mb-0 <b>Aptitud</b>: carne (engorde intensivo).   
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
                 p.mb-0 <b>Zonas comunes</b>: Cundinamarca, Valle del Cauca, Antioquia y Santander.
@@ -937,7 +937,7 @@
                 p.mb-0 <b>Origen:</b> Reino Unido (Aviagen). 
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Tipo</b>: Línea híbrida de alto rendimiento. 
+                p.mb-0 <b>Tipo</b>: línea híbrida de alto rendimiento. 
             h5 Características técnicas:
             ul.lista-ul--color.mb-0.ms-3 
               li.mb-1.d-flex
@@ -955,11 +955,11 @@
             ul.lista-ul--color.mb-0
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne.  
+                p.mb-0 <b>Aptitud</b>: carne.  
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Muy utilizada por grandes integradoras avícolas.
-      .div(titulo="<em>>Hubbard Flex / Classic</em>")
+                p.mb-0 <b>Particularidad</b>: muy utilizada por grandes integradoras avícolas.
+      .div(titulo="<em>Hubbard Flex / Classic</em>")
         .row.align-items-start.mb-5
           .col-lg-5.mb-3.mb-lg-0.order-lg-2
             figure
@@ -971,7 +971,7 @@
                 p.mb-0 <b>Origen:</b> Francia / Estados Unidos.   
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Tipo</b>: Línea híbrida de crecimiento medio. 
+                p.mb-0 <b>Tipo</b>: línea híbrida de crecimiento medio. 
             h5 Características técnicas:
             ul.lista-ul--color.mb-0.ms-3 
               li.mb-1.d-flex
@@ -989,10 +989,10 @@
             ul.lista-ul--color.mb-0
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne / pollo alternativo.   
+                p.mb-0 <b>Aptitud</b>: carne / pollo alternativo.   
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Ideal para sistemas de pollo campesino tecnificado.
+                p.mb-0 <b>Particularidad</b>: ideal para sistemas de pollo campesino tecnificado.
       .div(titulo="Arbor Acres Plus")
         .row.align-items-start.mb-5
           .col-lg-5.mb-3.mb-lg-0.order-lg-2
@@ -1005,7 +1005,7 @@
                 p.mb-0 <b>Origen:</b> Estados Unidos (Aviagen).  
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Tipo</b>: Línea pesada. 
+                p.mb-0 <b>Tipo</b>: línea pesada. 
             h5 Características técnicas:
             ul.lista-ul--color.mb-0.ms-3 
               li.mb-1.d-flex
@@ -1023,7 +1023,7 @@
             ul.lista-ul--color.mb-0
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne.  
+                p.mb-0 <b>Aptitud</b>: carne.  
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
                 p.mb-0 <b>Zonas comunes</b>: Costa Atlántica y Santander.
@@ -1039,7 +1039,7 @@
                 p.mb-0 <b>Origen:</b> Alemania.   
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Tipo</b>: Línea doble propósito. 
+                p.mb-0 <b>Tipo</b>: línea doble propósito. 
             h5 Características técnicas:
             ul.lista-ul--color.mb-0.ms-3 
               li.mb-1.d-flex
@@ -1054,10 +1054,10 @@
             ul.lista-ul--color.mb-0
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Aptitud</b>: Carne en sistemas familiares.    
+                p.mb-0 <b>Aptitud</b>: carne en sistemas familiares.    
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Particularidad</b>: Empleada en proyectos rurales promovidos por el SENA y Agrosavia.
+                p.mb-0 <b>Particularidad</b>: empleada en proyectos rurales promovidos por el SENA y Agrosavia.
 
     separador
     
@@ -1177,16 +1177,16 @@
                     p.mb-0 <b>Inicio de postura</b>: ~38-40 días. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Producción de huevos</b>: Hasta ~300 huevos por año.  
+                    p.mb-0 <b>Producción de huevos</b>: hasta ~300 huevos por año.  
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Aptitud principal</b>: Postura de huevos (también aprovechable para carne). 
+                    p.mb-0 <b>Aptitud principal</b>: postura de huevos (también aprovechable para carne). 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Adaptación</b>: Muy buena en altitudes medias y climas templados; requiere control ambiental para maximizar el rendimiento. 
+                    p.mb-0 <b>Adaptación</b>: muy buena en altitudes medias y climas templados; requiere control ambiental para maximizar el rendimiento. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Observación</b>: Alta fertilidad e incubabilidad cuando se maneja técnicamente.
+                    p.mb-0 <b>Observación</b>: alta fertilidad e incubabilidad cuando se maneja técnicamente.
               .div(titulo="Codorniz “koreana” o coreana")
                 p Línea menos común y de menor tamaño corporal, empleada en sistemas pequeños como alternativa familiar. 
                 h5 Aspecto - Descripción 
@@ -1196,23 +1196,23 @@
                     p.mb-0 <b>Origen</b>:Asia; menor desarrollo comercial frente a la japónica.  
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Producción de huevos</b>: Inferior a la línea japonesa en condiciones similares. 
+                    p.mb-0 <b>Producción de huevos</b>: inferior a la línea japonesa en condiciones similares. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Aptitud principal</b>: Postura, ocasionalmente carne en sistemas familiares. 
+                    p.mb-0 <b>Aptitud principal</b>: postura, ocasionalmente carne en sistemas familiares. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Adaptación</b>: Adecuada para traspatio o sistemas de autoconsumo.  
+                    p.mb-0 <b>Adaptación</b>: adecuada para traspatio o sistemas de autoconsumo.  
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Observación</b>: Menor rentabilidad comparada con la japónica en producción comercial.
+                    p.mb-0 <b>Observación</b>: menor rentabilidad comparada con la japónica en producción comercial.
               .div(titulo="Líneas cárnicas comerciales (<em>Texas White, Giant Brown, Giant White</em>)")
                 p Seleccionadas para lograr mayor peso en menor tiempo, se conocen en Colombia como “líneas cárnicas” o “doradas”.  
                 h5 Aspecto - Descripción 
                 ul.lista-ul--color.mb-0
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Origen</b>: Estados Unidos y Europa; incluyen líneas como Texas White y Giant Brown.  
+                    p.mb-0 <b>Origen</b>: Estados Unidos y Europa; incluyen líneas como Texas <em>White</em> y <em>Giant Brown</em>.  
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 <b>Edad de faena</b>: 42-56 días.  
@@ -1221,7 +1221,7 @@
                     p.mb-0 <b>Peso vivo al sacrificio</b>: 180-220 g. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
-                    p.mb-0 <b>Aptitud principal</b>: Producción de carne. 
+                    p.mb-0 <b>Aptitud principal</b>: producción de carne. 
                   li.mb-2.d-flex
                     i.fa-solid.fa-circle-check
                     p.mb-0 <b>Adaptación</b>: compatible con sistemas de rotación rápida o producción mixta. 
@@ -1337,7 +1337,7 @@
                 p.mb-0 <b>Características</b>: buena persistencia, rusticidad moderada y aptitud para zonas templadas. 
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Adaptación en Colombia</b>: Presente en Huila y Boyacá, usada en cruzamientos con criollas para mejorar rendimiento.
+                p.mb-0 <b>Adaptación en Colombia</b>: presente en Huila y Boyacá, usada en cruzamientos con criollas para mejorar rendimiento.
       .div(titulo="<em>Saanen</em>")
         .row.align-items-start.mb-5
           .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -1425,7 +1425,7 @@
                 p.mb-0 <b>Rendimiento en canal</b>: 50-55 %.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Características</b>: Excelente tasa de crecimiento, rusticidad y buena adaptación a diferentes sistemas.  
+                p.mb-0 <b>Características</b>: excelente tasa de crecimiento, rusticidad y buena adaptación a diferentes sistemas.  
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-check
                 p.mb-0 <b>Zonas</b>: Valle del Cauca, Huila y Costa Atlántica.
@@ -1615,7 +1615,7 @@
                 p.mb-0 <b>Rendimiento en canal</b>: 45-48 %. 
               li.mb-1.d-flex
                 i.fa-solid.fa-circle-check
-                p.mb-0 <b>Uso</b>: comúnmente empleada en cruzamientos con Dorper para mejorar rusticidad y desempeño en trópico bajo. 
+                p.mb-0 <b>Uso</b>: comúnmente empleada en cruzamientos con <em>Dorper</em> para mejorar rusticidad y desempeño en trópico bajo. 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

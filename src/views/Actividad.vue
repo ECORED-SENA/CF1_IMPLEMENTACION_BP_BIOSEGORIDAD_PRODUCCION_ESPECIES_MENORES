@@ -20,7 +20,7 @@ export default {
       tema: 'Microcontroladores y sensores',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> Identificar los conceptos claves relacionados con la clasificación zoológica, ciclos productivos. prácticas sanitarias, genética, producción y sostenibilidad en la cría de especies menores en Colombia.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

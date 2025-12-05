@@ -130,7 +130,7 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema5/5.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Reciclaje de nutrientes
-                p.text-center Uso de estiércol como abono orgánico o <em>lombricompost</em>, mejora la fertilidad del suelo y reduce fertilizantes químicos.
+                p.text-center El uso de estiércol como abono orgánico o <em>lombricompost</em>, mejora la fertilidad del suelo y reduce fertilizantes químicos.
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema5/6.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Uso eficiente de agua y energía
