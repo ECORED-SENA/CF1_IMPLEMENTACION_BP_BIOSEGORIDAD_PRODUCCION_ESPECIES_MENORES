@@ -319,7 +319,7 @@
                     img(src='@/assets/curso/tema1/9.png', alt='Texto que describa la imagen')
               div.text-center.text-white
                 h5.mb-5 Origen y difusión:
-                p.mb-0 Doméstica del bezoar salvaje (Capra aegagrus), originario de Asia Menor y Medio Oriente, domesticada hace unos 10 000 años. Hoy está presente en todo el mundo, incluida Colombia.
+                p.mb-0 Doméstica del bezoar salvaje (Capra aegagrus), originario de Asia Menor y Medio Oriente, domesticada hace unos 10.000 años. Hoy está presente en todo el mundo, incluida Colombia.
 
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
@@ -372,10 +372,7 @@
                     img(src='@/assets/curso/tema1/10.png', alt='Texto que describa la imagen')
               div.text-center
                 h5.mb-5 Origen y difusión:
-                p.mb-0 Descendiente del muflón asiático (<em>Ovis orientalis</em>), domesticada entre 9 000 y 11 000 años atrás en el Creciente Fértil. Su crianza se ha expandido globalmente.
-
-
-    
+                p.mb-0 Descendiente del muflón asiático (<em>Ovis orientalis</em>), domesticada entre 9.000 y 11.000 años atrás en el Creciente Fértil. Su crianza se ha expandido globalmente.
     
 </template>
 

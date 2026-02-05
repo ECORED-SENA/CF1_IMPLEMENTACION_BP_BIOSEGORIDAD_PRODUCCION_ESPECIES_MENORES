@@ -15,8 +15,6 @@
           .video.mb-2
             iframe(width="560" height="315" src="https://www.youtube.com/embed/SxUYfyIKrzY?si=fDyPrSLJPs-j247Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-        
-    
         separador
         
         #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -70,7 +68,6 @@
                     td Son herramientas pedagógicas en programas de educación agropecuaria.
                     td Escuelas rurales del SENA y proyectos “Huertas productivas” del ICA.
 
-        
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
@@ -158,39 +155,39 @@
     
     p.mb-5 Finalmente, los beneficios ecológicos derivados de estas prácticas refuerzan la sostenibilidad rural. A continuación se detallan los efectos más significativos:
 
-    .row.mb-5.justify-content-center.mb-3
+    .row.justify-content-center
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
         .tarjeta--boton.bg-color-3.p-4.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/tema5/10.svg', alt='Texto que describa la imagen')
-          h5.text-center Razas cárnicas
-          p.text-center Rendimiento de canal, engorde, precocidad
+          h5.text-center Reducción de residuos orgánicos
+          p.text-center Aprovechamiento como compost o alimento secundario.
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
         .tarjeta--boton.bg-color-3.p-4.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/tema5/11.svg', alt='Texto que describa la imagen')
-          h5.text-center Razas cárnicas
-          p.text-center Rendimiento de canal, engorde, precocidad
+          h5.text-center Conservación del suelo
+          p.text-center Aumento de materia orgánica y mejora estructural.
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
         .tarjeta--boton.bg-color-3.p-4.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/tema5/12.svg', alt='Texto que describa la imagen')
-          h5.text-center Razas mixtas
-          p.text-center Carne + piel o carne + rusticidad
+          h5.text-center Diversificación biológica
+          p.text-center Favorece la polinización y el control natural de plagas.
       .col-sm-6.col-lg-3.mb-4.mb-lg-0(data-aos="fade-down")
         .tarjeta--boton.bg-color-3.p-4.h-100
           .row.justify-content-center.mb-3
             .col-7
               figure
                 img(src='@/assets/curso/tema5/13.svg', alt='Texto que describa la imagen')
-          h5.text-center Razas criollas
-          p.text-center Adaptación local, rusticidad, bajo costo
+          h5.text-center Mitigación del cambio climático
+          p.text-center Disminución de GEI por baja fermentación entérica.
 
 </template>
 
